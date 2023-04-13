@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zknbnbdnb)
 
 
-<img alt="wakatime stats" src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=zknbnbdnb&layout=compact" width="500">
+<img alt="wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=zknbnbdnb&layout=compact" width="500">
 
 
 <img src="https://view.moezx.cc/images/2021/02/25/7217294a8cb992d37eceeb8f5a01d100.gif" height="60" align="right"/>
