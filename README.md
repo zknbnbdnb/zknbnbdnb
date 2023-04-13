@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zknbnbdnb)
 
 
-<img alt="wakatime stats" src="https://github-readme-stats-git-main-mashirozx.vercel.app/api/wakatime?username=mashirozx&layout=compact" width="500">
+<img alt="wakatime stats" src="https://github-readme-stats-git-main-mashirozx.vercel.app/api/wakatime?username=zknbnbdnb&layout=compact" width="500">
 
 <!--<img alt="Genshin game card" src="https://genshin-card.getloli.com/detail/49/169665493.png" width="500"-->
 
